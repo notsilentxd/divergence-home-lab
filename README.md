@@ -65,4 +65,4 @@ Verified the configuration was correct:
 ![2024-01-24 11_17_55-stage1-instructions-config-lan-network  ntt-wiki  - Brave](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/23920863-0c29-43d9-9043-8fe5ddaadfbe)
 
 
-<h5>Stage 1: Network Setup : Add a Win10 workstation</h5>
+<h3>Stage 1: Network Setup : Add a Win10 workstation</h3>
