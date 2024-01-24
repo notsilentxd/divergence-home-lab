@@ -32,7 +32,7 @@ Stage 1: Network Setup: Configuring The Lan network
 
 Login to the console:
 <li>username: admin</li>
-<li>password: none </li> 
+<li>password: by default there is no password</li> 
     <li>then created a password: Passw0rd!</li>
 <br>
 
