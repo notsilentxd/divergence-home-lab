@@ -45,7 +45,7 @@ Per The clients request I will configure 10.128.0.0/24 as the LAN network
 
 ![2024-01-24 10_10_53-stage1-instructions-config-lan-network  ntt-wiki  - Brave](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/c86fea8e-a062-45e2-a2ca-a86fb6a658e5)
 <br> 
-Verified the configuration is correct using the command:
+Verified the configuration is correct by using the command:
 <li>Show sys int port2</li>
 <br>
 
