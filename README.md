@@ -36,6 +36,7 @@ Login to the console:
 <li>username: admin</li>
 <li>password: none </li> 
     <li>then created a password: Passw0rd!</li>
+<br>
 
 <head>Confiure the Lan interface</head>
 Per The clients request I will configure 10.128.0.0/24 as the LAN network
