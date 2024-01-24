@@ -32,8 +32,8 @@ Stage 1: Network Setup: Configuring The Lan network
 
 Login to the console:
 <li>username:admin</li>
-<li>password:none 
-  then created a password: Passw0rd!</li>
+<li>password:none </li> 
+  <li>then created a password: Passw0rd!</li>
 
 <head>Confiure the Lan interface</head>
 Per The clients request I will configure 10.128.0.0/24 as the LAN network
