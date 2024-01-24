@@ -33,8 +33,8 @@ Stage 1: Network Setup: Configuring The Lan network
 </head>the first time you log into the firewall it may take a few minutes to boot up, but Once the setup is complete, you will see the loging screen</head>
 
 Login to the console:
-<li>username:admin</li>
-<li>password:none </li> 
+<li>username: admin</li>
+<li>password: none </li> 
     <li>then created a password: Passw0rd!</li>
 
 <head>Confiure the Lan interface</head>
