@@ -58,4 +58,11 @@ Verified the configuration is correct by using the command:
 
 ![2024-01-24 11_13_05-stage1-instructions-config-lan-network  ntt-wiki  - Brave](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/7d9c1721-e2f8-41cb-94b3-609dd7ca7200)
 
+Verified the configuration was correct:
+<li>show sys dhcp server 1</li>
+<br>
+
+![2024-01-24 11_17_55-stage1-instructions-config-lan-network  ntt-wiki  - Brave](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/23920863-0c29-43d9-9043-8fe5ddaadfbe)
+
+
 
