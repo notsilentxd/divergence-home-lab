@@ -20,3 +20,10 @@ Stage 0 Topology: Starting from Zero
 Stage 1 Topology: Network Setup
 
 ![STAGE 1](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/d4816747-1b83-4f80-8ef5-64c1a8949d41)
+
+</head> In stage 1 I had to:
+  <li>Configure the Lan Network</li>
+  <li>Add a Win10 workstation</li>
+  <li>Connect to the firewall GUI</li>
+  <lI>Complete the network setup</lI>
+  
