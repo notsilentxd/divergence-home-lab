@@ -15,7 +15,7 @@
 
 ![STAGE 0](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/2960e05e-27ed-4ae0-b405-91613a56d3bc)
 
-Stage 1 Topology: Network Setup
+<h3>Stage 1 Topology: Network Setup</h3>
 
 ![STAGE 1](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/d4816747-1b83-4f80-8ef5-64c1a8949d41)
 
@@ -26,7 +26,7 @@ Stage 1 Topology: Network Setup
   <li>Connect to the firewall GUI</li>
   <lI>Complete the network setup</lI>
 <br>
-<h3>Stage 1: Network Setup: Configuring The Lan network</h3>
+Stage 1: Network Setup: Configuring The Lan network
 
 </head>the first time you log into the firewall it may take a few minutes to boot up, but Once the setup is complete, you will see the loging screen</head>
 
