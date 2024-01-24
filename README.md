@@ -56,7 +56,5 @@ Verified the configuration is correct by using the command:
 <li>The firewall will perform DHCP services for the devices on the LAN network</li>
 <li>Set the DHCP pool scope to 10.128.0.[100-199]</li>![2024-01-24 11_13_05-stage1-instructions-config-lan-network  ntt-wiki  - Brave](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/36b24701-4097-49a6-b1d5-b957d8207e1f)
 <br>
-
-
 ![2024-01-24 11_13_05-stage1-instructions-config-lan-network  ntt-wiki  - Brave](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/426c86dc-fa80-41c8-b0df-1dbf1b00e11c)
 
