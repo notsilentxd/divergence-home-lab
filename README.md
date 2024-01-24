@@ -84,6 +84,8 @@ Verified the configuration was correct:
       <li>Gateway: 10.128.0.1</li>
       <li>DHCP server: 10.128.0.1</li>
     </ul>    
+![2024-01-24 12_08_39-stage1-instructions-add-win10-workstation  ntt-wiki  - Brave](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/d2987c3c-926d-48f4-b27c-b930403daa59)
+
 
 
      
