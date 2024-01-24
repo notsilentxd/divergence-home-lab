@@ -68,10 +68,10 @@ Verified the configuration was correct:
 <h3>Stage 1: Network Setup : Add a Win10 workstation</h3>
 <h5>Scope:</h5>
 <ul>
-  <li>Verify that Win10 warokstation has leased a DHCP address from the LAN networkC</li>
+  <li>Verify that Win10 warokstation has leased a DHCP address from the LAN network</li>
   <li>Test network Connectivitiy</li>
   </ul>
-<li>Login with the defualt credentials:</li>
+<head>Login with the defualt credentials:</head>
  <ul> 
    <li>Username:IEUser</li>
      <li>password: Passw0rd!</li>
