@@ -27,3 +27,17 @@ Stage 1 Topology: Network Setup
   <li>Connect to the firewall GUI</li>
   <lI>Complete the network setup</lI>
   
+Stage 1: Network Setup: Configuring The Lan network
+</head>the first time you log into the firewall it may take a few minutes to boot up, but Once the setup is complete, you will see the loging screen</head>
+
+Login to the console:
+<li>username:admin</li>
+<li>password:none then created a password: Passw0rd!</li>
+
+<head>Confiure the Lan interface</head>
+
+Per The clients request I will configure 10.128.0.0/24 as the LAN network
+<li>The LAN gateway will be 10.128.0.1/24</li>
+<li>The LAN interface is named port2 on the FortiGate firewall</li>
+
+![2024-01-24 10_10_53-stage1-instructions-config-lan-network  ntt-wiki  - Brave](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/c86fea8e-a062-45e2-a2ca-a86fb6a658e5)
