@@ -1,5 +1,5 @@
 # divergence-home-lab
-creating a small home lab in GNS3
+<h1>creating a small home lab in GNS3</h1>
 <head> </head> In this project the client has requested the following </head>
 <ol></ol>
 <li>A secure network</li>
