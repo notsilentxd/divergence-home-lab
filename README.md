@@ -68,6 +68,6 @@ Verified the configuration was correct:
 <h3>Stage 1: Network Setup : Add a Win10 workstation</h3>
 <br> 
 <li>Login with the defualt credentials:</li>
-  <li>  <li>username: IEUser</li>
-  <li> <li>password: Passw0rd!</li>
+    <li>username: IEUser
+     password: Passw0rd!</li>
     
