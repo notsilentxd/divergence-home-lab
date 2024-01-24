@@ -40,7 +40,7 @@ Login to the console:
 
 <head>Confiure the Lan interface</head>
 Per The clients request I will configure 10.128.0.0/24 as the LAN network
-
+<br>
 <li>The LAN gateway will be 10.128.0.1/24</li>
 <li>The LAN interface is named port2 on the FortiGate firewall</li>
 
