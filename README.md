@@ -1,15 +1,16 @@
 # divergence-home-lab
 creating a small home lab in GNS3
 <head> </head> In this project the client has requested the following </head>
-<body></body>1. A secure network 
-2.An internal windows Domain
-3.An internal Microsft 10 workstation 
-4.A public webserver
-5.A public FTP server
-- A LAN network on 10.128.0.0/24
-- A DMZ network on 10.128.10/24
-- A Guest network on 10.128.99.0/24
-</body>
+<ol></ol>
+<li>A secure network</li>
+<li>An internal windows Domain</li>
+<li>An internal Microsft 10 workstation</li> 
+<li>A public webserver</li>
+<li>A public FTP server</li>
+<li>A LAN network on 10.128.0.0/24</li>
+<li>A DMZ network on 10.128.10/24</li>
+<li>A Guest network on 10.128.99.0/24</li>
+
 
 
 Stage 0: Starting from Zero
