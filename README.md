@@ -19,7 +19,7 @@
 
 ![STAGE 1](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/d4816747-1b83-4f80-8ef5-64c1a8949d41)
 
-</head> In stage 1 I had to: </head>
+<h5> In stage 1 I had to: </h5>
 
   <li>Configure the Lan Network</li>
   <li>Add a Win10 workstation</li>
@@ -65,4 +65,4 @@ Verified the configuration was correct:
 ![2024-01-24 11_17_55-stage1-instructions-config-lan-network  ntt-wiki  - Brave](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/23920863-0c29-43d9-9043-8fe5ddaadfbe)
 
 
-
+<h5>Stage 1: Network Setup : Add a Win10 workstation</h5>
