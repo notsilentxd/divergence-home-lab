@@ -66,13 +66,11 @@ Verified the configuration was correct:
 
 
 <h3>Stage 1: Network Setup : Add a Win10 workstation</h3>
-<br> 
 <h5>Scope:</h5>
 <ul>
-  <li>start the Win10 workstation in GNS3, and then double click it to connect through VNC</li>
-  <li>The first time you start Win10 it will take a minute or two to setup</li>
-  <li>click-and-hold the background image and drag up to show the login prompt</li>
-</ul>
+  <li>Verify that Win10 warokstation has leased a DHCP address from the LAN networkC</li>
+  <li>Test network Connectivitiy</li>
+  </ul>
 <li>Login with the defualt credentials:</li>
  <ul> 
    <li>Username:IEUser</li>
