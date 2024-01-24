@@ -55,3 +55,6 @@ Verified the configuration is correct by using the command:
 <li>Enable the DHCP sever on the LAN interface</li>
 <li>The firewall will perform DHCP services for the devices on the LAN network</li>
 <li>Set the DHCP pool scope to 10.128.0.[100-199]</li>
+<br>
+
+C:\Users\ianmc\OneDrive\Desktop\2024-01-24 11_13_05-stage1-instructions-config-lan-network [ntt-wiki] - Brave.png
