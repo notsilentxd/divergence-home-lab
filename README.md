@@ -27,8 +27,7 @@ Stage 1 Topology: Network Setup
   <li>Add a Win10 workstation</li>
   <li>Connect to the firewall GUI</li>
   <lI>Complete the network setup</lI>
------
-
+<br>
 Stage 1: Network Setup: Configuring The Lan network
 </head>the first time you log into the firewall it may take a few minutes to boot up, but Once the setup is complete, you will see the loging screen</head>
 
