@@ -51,7 +51,7 @@ Verified the configuration is correct by using the command:
 
 ![2024-01-24 10_42_27-stage1-instructions-config-lan-network  ntt-wiki  - Brave](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/00ccb984-24b7-4c6b-bffb-1616f2119966)
 <br>
-<h6>Configure the DHCP server for the LAN interface:</h6>
+<h5>Configure the DHCP server for the LAN interface:</h5>
 <br>
 <li>Enable the DHCP sever on the LAN interface</li>
 <li>The firewall will perform DHCP services for the devices on the LAN network</li>
