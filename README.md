@@ -44,3 +44,9 @@ Per The clients request I will configure 10.128.0.0/24 as the LAN network
 <li>The LAN interface is named port2 on the FortiGate firewall</li>
 
 ![2024-01-24 10_10_53-stage1-instructions-config-lan-network  ntt-wiki  - Brave](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/c86fea8e-a062-45e2-a2ca-a86fb6a658e5)
+<br> 
+Verify the configuration is correct
+<li>Show sys int port2</li>
+<br>
+<br>
+![2024-01-24 10_42_27-stage1-instructions-config-lan-network  ntt-wiki  - Brave](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/00ccb984-24b7-4c6b-bffb-1616f2119966)
