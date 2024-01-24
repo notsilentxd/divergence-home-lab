@@ -69,5 +69,5 @@ Verified the configuration was correct:
 <br> 
 <li>Login with the defualt credentials:</li>
     <li>username: IEUser
-     password: Passw0rd!</li>
+     <li>password: Passw0rd!
     
