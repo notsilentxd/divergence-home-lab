@@ -1,6 +1,6 @@
 # divergence-home-lab
 creating a small home lab in GNS3
-<head> </head> In this project the client has requested the following
+<head> </head> In this project the client has requested the following </head>
 1. A secure network 
 2.An internal windows Domain
 3.An internal Microsft 10 workstation 
@@ -9,7 +9,7 @@ creating a small home lab in GNS3
 - A LAN network on 10.128.0.0/24
 - A DMZ network on 10.128.10/24
 - A Guest network on 10.128.99.0/24
-</head>
+
 
 
 Stage 0: Starting from Zero
