@@ -79,9 +79,9 @@ Verified the configuration was correct:
  <br>
  <head>Verified that Win10 workstastion has leased a DHCP addresss from the LAN network</head>
 <ul>
-  valid IP range: 10.1289.0[100-199]/24
-  Gateway: 10.128.0.1
-  DHCP server: 10.128.0.1
+  <li></li>valid IP range: 10.1289.0[100-199]/24
+  <li></li>Gateway: 10.128.0.1
+  <li></li>DHCP server: 10.128.0.1
 </ul>    
      
 
