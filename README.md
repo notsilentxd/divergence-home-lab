@@ -72,5 +72,4 @@ Verified the configuration was correct:
      <li>Username:</li>
      <li>password</li>
      
-</li></li>
-    
+
