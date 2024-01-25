@@ -150,13 +150,37 @@ Verified the configuration was correct:
   </ul>
   <br>
   <h5>Connet to The GUi</h5>
+  
+  ![2024-01-25 09_03_23-stage1-instructions-complete-network-setup  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/33bb4ac3-6f73-42c7-8f26-72526ed109ca)
+
   <h5>Port1 WAN</h5>
+  
+  ![2024-01-25 09_03_38-stage1-instructions-complete-network-setup  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/fc1ccb8c-aa80-4024-91f8-15abc0c726bb)
+
   <h5>Port2 LAN</h5>
+  
+  ![2024-01-25 09_03_44-stage1-instructions-complete-network-setup  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/e1bbef22-624a-47d8-8359-c57a164d273d)
+
   <h5>Port2 Guest</h5>
+  
+  ![2024-01-25 09_03_52-stage1-instructions-complete-network-setup  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/a3f5f559-0ac6-481e-811e-8ef8758a1deb)
+
   <h5>Port4 DMZ</h5>
+  
+  ![2024-01-25 09_04_01-stage1-instructions-complete-network-setup  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/5baa93a5-35b0-475c-892c-ef6a3c790668)
+
   <h5>Enable DNS</h5>
+  
+  ![2024-01-25 09_04_07-stage1-instructions-complete-network-setup  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/710b97d4-a87c-420e-8f72-9be6a2c4b45c)
+
   <h5>Configure the firewall system DNS</h5>
+  
+  ![2024-01-25 09_04_14-stage1-instructions-complete-network-setup  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/72a9c671-40f5-478a-a016-9ab33025100c)
+
   <h5>Configure Network DNS</h5>
+
+  ![2024-01-25 09_04_19-stage1-instructions-complete-network-setup  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/94a4198a-a48a-4379-9a72-2dc4163fac61)
+
   <h5> LAN DNS</h5>
   <h5>Guest DNS</h5>
   <h5>DMZ DNS</h5>
