@@ -96,6 +96,20 @@ Verified the configuration was correct:
 <li>Open the webbrowser on the Win10 and connect to the firewall GUI</li>   
   <Ul>Http://10.128.0.1/</Ul>
 </ul>
+<br>
+
+![2024-01-25 08_25_23-stage1-instructions-connect-to-fw-gui  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/c2abf402-d97a-41b5-a36b-034add1468b2)
+<head>Make system chages</head>
+<ul>
+  <li>Hostname=firewall</li>
+  <li>timezone=GMT -6:00 Centeral Time (US& Canada)</li>
+  <li>Setup device as local NTP server= enabled</li>
+  <ul>List on interface = port2, port 4</ul>
+  <li>idle time out = 60</li>
+  <li> auto file system check = enabled</li>
+</ul>
+
+
 
 
      
