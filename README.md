@@ -109,23 +109,28 @@ Verified the configuration was correct:
   <li> auto file system check = enabled</li>
 </ul>
 <br>
+
 <head>Backup the configuration and reboot the firewall</head>
 <br>
 <head5>Stage 1: Network setup: compklete the network setup</head5>
+ <br>
   <ul>
-      <li>connect to the GUI
-      Backup the firewall config
-      configure network interfaces
-      <li>port 1 WAN
-      prot 2 LAN
-      Port 3 Guest
-      port 4 DMZ</li>
-  Enable DNS
-  Configure the firewall system DNS
-  Configure Network DNS
-  <li>LAN DNS
-  GUEST DNS
-  DMZ DNS</li></li>
+      <li>connect to the GUI</li>
+      <li>Backup the firewall config</li>
+      <li>configure network interfaces</li>
+   <ul>     
+        <li>port 1 WAN</li>
+        <li>prot 2 LAN</li>  
+        <li>Port 3 Guest</li>
+        <li>port 4 DMZ</li>
+   </ul>
+    <li>Enable DNS</li>
+    <li>Configure the firewall system DNS</li>
+    <li>Configure Network DNS</li>
+    <ul>
+      <li>LAN DNS</li>
+      <li>GUEST DNS</li>
+      <li>DMZ DNS</li>
   </ul>
 
 
