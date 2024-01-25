@@ -112,6 +112,7 @@ Verified the configuration was correct:
 
 <head>Backup the configuration and reboot the firewall</head>
 <br>
+<br>
 <head5>Stage 1: Network setup: compklete the network setup</head5>
  <br>
   <ul>
@@ -131,6 +132,21 @@ Verified the configuration was correct:
       <li>LAN DNS</li>
       <li>GUEST DNS</li>
       <li>DMZ DNS</li>
+    </ul>
+    <il>Create Service Objects</il>
+    <ul> 
+      <li>LAN service</li>
+      <li> DMZ service</li>
+    </ul>
+    <li>Configure firewall Rules</li>
+    <ul>
+        <li>LAN-to_WAN policy</li>
+        <li>DMZ-to-WAN policy</li>
+        <li>LAN-to_DMZ policy</li>
+        <li>DMZ-to-LAN policy</li>
+        <li>WAN-to-DMZ policy</li>
+    </ul>
+    <li>Backup the firewall Config</li>
   </ul>
 
 
