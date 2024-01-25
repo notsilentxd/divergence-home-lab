@@ -182,14 +182,41 @@ Verified the configuration was correct:
   ![2024-01-25 09_04_19-stage1-instructions-complete-network-setup  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/94a4198a-a48a-4379-9a72-2dc4163fac61)
 
   <h5> LAN DNS</h5>
+  
+  ![2024-01-25 09_04_19-stage1-instructions-complete-network-setup  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/7f0945ff-61a2-48b6-b591-09798310e043)
+
   <h5>Guest DNS</h5>
+  
+  ![2024-01-25 09_04_26-stage1-instructions-complete-network-setup  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/b9ebfdf0-27de-4687-a2c8-89563fad0031)
+
   <h5>DMZ DNS</h5>
+  
+  ![2024-01-25 09_04_32-stage1-instructions-complete-network-setup  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/ee96742b-8b10-4df1-9f6b-435e74c95dd0)
+
   <h5>LAN services</h5>
+  
+  ![2024-01-25 09_04_37-stage1-instructions-complete-network-setup  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/cea742c5-8eee-4880-9373-b75d257bc570)
+
   <h5>DMZ services</h5>
+  
+  ![2024-01-25 09_04_44-stage1-instructions-complete-network-setup  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/34e8ff24-db38-49bc-bc10-6f239a8ee101)
+
   <h5>LAN-to-WAN policy</h5>
+
+  ![2024-01-25 09_04_50-stage1-instructions-complete-network-setup  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/23e38ce0-a75b-4f87-908e-0f1a913bf0e5)
+
   <h5>LAN-to-DMZ policy</h5>
+  
+  ![2024-01-25 09_04_55-stage1-instructions-complete-network-setup  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/a187aaf5-0a41-4aa2-87f8-51faa5d41ca0)
+
   <h5>DMZ-to-LAN policy</h5>
+  
+  ![2024-01-25 09_05_04-stage1-instructions-complete-network-setup  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/94f04715-91e4-4a0d-b166-2f99f1bdddb0)
+
   <h5>WAN-to-DMZ policy</h5>
+  
+  ![2024-01-25 09_05_10-stage1-instructions-complete-network-setup  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/439b6476-f3cd-48da-9cd4-2e7b841509a4)
+
   <br>
   <head> Backup the firewall Config</head>
 
