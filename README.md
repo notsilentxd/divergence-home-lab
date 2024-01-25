@@ -148,7 +148,26 @@ Verified the configuration was correct:
     </ul>
     <li>Backup the firewall Config</li>
   </ul>
-
+  <br>
+  <h5>Connet to The GUi</h5>
+  <h5>Port1 WAN</h5>
+  <h5>Port2 LAN</h5>
+  <h5>Port2 Guest</h5>
+  <h5>Port4 DMZ</h5>
+  <h5>Enable DNS</h5>
+  <h5>Configure the firewall system DNS</h5>
+  <h5>Configure Network DNS</h5>
+  <h5> LAN DNS</h5>
+  <h5>Guest DNS</h5>
+  <h5>DMZ DNS</h5>
+  <h5>LAN services</h5>
+  <h5>DMZ services</h5>
+  <h5>LAN-to-WAN policy</h5>
+  <h5>LAN-to-DMZ policy</h5>
+  <h5>DMZ-to-LAN policy</h5>
+  <h5>WAN-to-DMZ policy</h5>
+  <br>
+  <head> Backup the firewall Config</head>
 
 
 
