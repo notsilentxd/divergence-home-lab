@@ -99,7 +99,7 @@ Verified the configuration was correct:
 <br>
 
 ![2024-01-25 08_25_23-stage1-instructions-connect-to-fw-gui  ntt-wiki](https://github.com/notsilentxd/divergence-home-lab/assets/157625570/c2abf402-d97a-41b5-a36b-034add1468b2)
-<head>Make system chages</head>
+<head>Make system chages:</head>
 <ul>
   <li>Hostname=firewall</li>
   <li>timezone=GMT -6:00 Centeral Time (US& Canada)</li>
@@ -108,6 +108,26 @@ Verified the configuration was correct:
   <li>idle time out = 60</li>
   <li> auto file system check = enabled</li>
 </ul>
+<br>
+<head>Backup the configuration and reboot the firewall</head>
+<br>
+<head5>Stage 1: Network setup: compklete the network setup</head5>
+  <ul>
+      <li>connect to the GUI
+      Backup the firewall config
+      configure network interfaces
+      <li>port 1 WAN
+      prot 2 LAN
+      Port 3 Guest
+      port 4 DMZ</li>
+  Enable DNS
+  Configure the firewall system DNS
+  Configure Network DNS
+  <li>LAN DNS
+  GUEST DNS
+  DMZ DNS</li></li>
+  </ul>
+
 
 
 
